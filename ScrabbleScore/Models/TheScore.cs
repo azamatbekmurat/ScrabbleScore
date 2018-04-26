@@ -8,7 +8,7 @@ namespace TheScore.Models
     private string _word;
     private static List<string> _allLettersForOne = new List<string>() {"A", "E", "I", "O", "U", "L", "N", "R", "S", "T", "a", "e", "i", "o", "u", "l", "n", "r", "s", "t"};
     private static List<string> _allLettersForTwo = new List<string>() {"D", "G", "d", "g"};
-    private static List<string> _allLettersForThree = new List<string>() {"B", "C", "M", "b", "c", "m"};
+    private static List<string> _allLettersForThree = new List<string>() {"B", "C", "M", "P", "b", "c", "m", "p"};
     private static List<string> _allLettersForFour = new List<string>() {"F", "H", "V", "W", "Y", "f", "h", "v", "w", "y"};
     private static List<string> _allLettersForFive = new List<string>() {"K", "k"};
     private static List<string> _allLettersForEight = new List<string>() {"J", "X", "j", "x"};
